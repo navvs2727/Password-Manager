@@ -1,4 +1,4 @@
-# Secure Password Manager (Python)
+# Secure Password Manager (Python CLI Project)
 
 A simple command line password manager built with Python using Random Password Generation and File Handling.
 
